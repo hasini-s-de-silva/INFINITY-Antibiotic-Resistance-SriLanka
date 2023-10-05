@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infinity: Antibiotic Resistance in Sri Lanka - Surveillance</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Surveillance</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="surveillance.html">Surveillance</a></li>
+            <li><a href="information.html">Information</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="future.html">The Future</a></li>
+            <li><a href="antibiotic-control.html">Antibiotic Control</a></li>
+            <li><a href="about-me.html">About Me</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>INFORMATION</h2>
+        <p>Surveillance involves monitoring the prevalence and spread of antibiotic-resistant bacteria. It helps healthcare professionals and researchers understand the scope of the problem.</p>
+        <img src="surveillance-image.jpg" alt="Surveillance Image">
+    </main>
+    <footer>
+        <p>&copy; 2023 Infinity: Antibiotic Resistance in Sri Lanka</p>
+    </footer>
+</body>
+</html>
